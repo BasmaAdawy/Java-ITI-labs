@@ -1,0 +1,6 @@
+enter data 
+hello
+enter data 
+basma
+enter data 
+stop
